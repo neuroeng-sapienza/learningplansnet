@@ -1,0 +1,7 @@
+{
+    "mypy-type-checker.importStrategy": "fromEnvironment",
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.autopep8",
+        "editor.formatOnSave": true
+      }
+}
