@@ -9,9 +9,11 @@ dist/
 wheels/
 *.egg-info
 
-# Streamlit lib
+# VisJS library
 lib/
 
 # Virtual environments
 .venv
 
+# Other generated files
+logs/app.log
